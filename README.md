@@ -191,5 +191,3 @@
 
 ##### [带你实现开发者头条](https://github.com/ansen666/DeveloperHeadlines)
 
-![cover](https://github.com/ansen666/images/blob/master/public/book_cover.png?raw=true)
-
