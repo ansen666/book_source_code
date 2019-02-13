@@ -16,6 +16,8 @@
 
 ### 第2章 Android基础知识
 
+##### [自定义View跟自定义属性](https://github.com/ansen666/DefinitionView)
+
 ##### [LinearLayout](https://github.com/ansen666/LinearLayout)
 
 ##### [RelativeLayout](https://github.com/ansen666/RelativeLayout)
